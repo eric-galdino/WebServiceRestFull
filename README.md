@@ -1,6 +1,6 @@
 # Web Service RestFull 
 Web Service RestFull com NodeJS e MongoDB <br><br>
-Tecnologias Usadas
+Tecnologias Usadas:
 <ul>
   <li>NodeJS</li>
   <li>MongoDB</li>
